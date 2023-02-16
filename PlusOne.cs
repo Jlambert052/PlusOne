@@ -1,9 +1,16 @@
 public class Solution {
     public int[] PlusOne(int[] digits) {
-        for(int count = digits.Length; count >= 0; count--) {
-
+        int count = digits.Length -1;
+        while(count >= 0 && digits[count] == 9) {
+            digits[count] = 0;
+            count--;
         }
-        int[] digits2 = new int[digits.Length+1];
-        digits2[0] = 
+        if(count < 0)
+        {
+            Array.Resize(ref digits, digits.Length +1);
+            count = 0;
+        }
+        digits[count]++;
+        return digits;
     }
     }
