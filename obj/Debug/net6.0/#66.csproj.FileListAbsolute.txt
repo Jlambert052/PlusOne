@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\bin\Debug\net6.0\#66.exe
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\bin\Debug\net6.0\#66.deps.json
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\bin\Debug\net6.0\#66.runtimeconfig.json
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\bin\Debug\net6.0\#66.dll
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\bin\Debug\net6.0\#66.pdb
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\obj\Debug\net6.0\#66.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\obj\Debug\net6.0\#66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\obj\Debug\net6.0\#66.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\obj\Debug\net6.0\#66.AssemblyInfo.cs
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\obj\Debug\net6.0\#66.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\obj\Debug\net6.0\#66.dll
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\obj\Debug\net6.0\refint\#66.dll
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\obj\Debug\net6.0\#66.pdb
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\obj\Debug\net6.0\#66.genruntimeconfig.cache
+C:\Program Files (x86)\Programming\Repos\LeetCode\#66\obj\Debug\net6.0\ref\#66.dll
